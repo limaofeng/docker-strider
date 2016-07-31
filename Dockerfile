@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 MAINTAINER Keyvan Fatehi <keyvanfatehi@gmail.com>
 
-ENV STRIDER_TAG v1.6.4
+ENV STRIDER_TAG v1.8.0
 ENV STRIDER_REPO https://github.com/Strider-CD/strider
 
 RUN locale-gen en_US.UTF-8
